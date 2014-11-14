@@ -2,11 +2,12 @@
 Projeto: Arduino bibliotecas
 Autor: Marcelo Luiz Lubasinski
 *************************************************************************************************************************
-Instruções sobre a disponibilização de bibliotecas neste repositório
+InstruÃ§Ãµes sobre a disponibilizaÃ§Ã£o de bibliotecas neste repositÃ³rio
 
-1 - Todas os tutoriais das bibliotecas deverão obrigatóriamente estar em português do Brasil;
-2 - Todas questões ainda não apresentadas nesse documento, serão analisadas por mim com o devido contato por email com o
-    colaborador;
+1 - Todas os tutoriais das bibliotecas deverÃ£o obrigatoriamente estar em portuguÃªs do Brasil;
+2 - Todas as questÃµes ainda nÃ£o apresentadas nesse documento, serÃ£o analisadas por mim com o devido contato por email com o colaborador;
 
 Marcelo Luiz Lubasinski
 marcelolubasinski.mobile@gmail.com
+
+Atualizada em 14/11/2014
