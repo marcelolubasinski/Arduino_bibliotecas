@@ -1,0 +1,5 @@
+# algumas extensões de arquivos não monitorados #
+#################################################
+*.directory
+*.com
+*.exe

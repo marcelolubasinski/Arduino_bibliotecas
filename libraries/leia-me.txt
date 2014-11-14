@@ -1,0 +1,15 @@
+*************************************************************************************************************************
+Projeto: Arduino bibliotecas
+Autor: Marcelo Luiz Lubasinski
+*************************************************************************************************************************
+Instruções sobre a disponibilização de bibliotecas neste repositório
+
+1 - Todas as bibliotecas deverão obrigatóriamente estar em português do Brasil;
+2 - Todos os comentários das bibliotecas deverão estar em português ou traduzido;
+3 - Deverá ser informado a licença original da biblioteca e disponibilizado na pasta "licences", e sub-pasta com o mesmo
+    nome da biblioteca o seu conteúdo;
+4 - Todas questões ainda não apresentadas nesse documento, serão analisadas por mim com o devido contato por email com o
+    colaborador;
+
+Marcelo Luiz Lubasinski
+marcelolubasinski.mobile@gmail.com
